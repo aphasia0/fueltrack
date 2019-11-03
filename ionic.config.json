@@ -1,0 +1,7 @@
+{
+  "name": "fueltrack",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
